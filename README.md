@@ -7,23 +7,11 @@ Specializing in **Flutter, React Native** to build high-performance, cross-platf
 
 ---
 
-### 🔹 About Me
-I'm a developer focused on creating **scalable, efficient, and cross-platform applications** with expertise in **mobile and desktop development**.
-
-- 💡 **Building cross-platform applications** using Flutter and React Native.
-- 🔍 **Passionate about AI-driven innovations** in mobile development.
-- 💻 **Strong background in Git, Version Control, and Cloud Integrations.**
-
----
-
-### **Cross-Platform Development**
+### **Core Competencies**
 - 🚀 Flutter
-- ⚛️ React Native
-
-### **JavaScript Full Stack Development**
-- ⚛️ React
-- 🖥 Electron
-- 📱 React Native
+- 🐍 Python
+- 💻 JavaScript
+- 📱 Dart
 
 ### **Version Control**
 - 🛠 Git & GitHub
@@ -34,12 +22,16 @@ I'm a developer focused on creating **scalable, efficient, and cross-platform ap
 - 📓 Jupyter
 - 🖥 JetBrains Suite
 - 📱 Android Studio
-  
+
 ### **Awareness**
 - 💻 C++
 - ☕ Java
-- 📱 Android App Development
----
+- 🐚 Bash
+
+  #### **JavaScript Multi-Platform Development**
+  - ⚛️ React
+  - 🖥 Electron
+  - 📱 React Native
 
 ### 📬 Connect With Me
 - 📧 **Email:** [jashupadhyay.work@gmail.com](mailto:jashupadhyay.work@gmail.com)
