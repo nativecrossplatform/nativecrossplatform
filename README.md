@@ -3,7 +3,7 @@
 ## 🚀 Cross-Platform Mobile Developer
 **B.Tech in Computer Engineering** | Mukesh Patel School of Technology Management & Engineering, NMIMS (Batch of 2026)  
 
-Specializing in **Flutter, React Native to build high-performance, cross-platform applications.
+Specializing in **Flutter, React Native** to build high-performance, cross-platform applications.
 
 ---
 
