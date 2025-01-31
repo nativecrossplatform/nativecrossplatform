@@ -27,11 +27,10 @@ Specializing in **Flutter** to build high-performance, cross-platform applicatio
 - 💻 C++
 - ☕ Java
 - 🐚 Bash
-
-  #### **JavaScript Multi-Platform Development**
-  - ⚛️ React
-  - 🖥 Electron
-  - 📱 React Native
+- **JavaScript Multi-Platform Development**
+    - ⚛️ React
+    - 🖥 Electron
+    - 📱 React Native
 
 ### 📬 Connect With Me
 - 📧 **Email:** [jashupadhyay.work@gmail.com](mailto:jashupadhyay.work@gmail.com)
