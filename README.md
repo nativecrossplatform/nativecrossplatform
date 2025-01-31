@@ -32,6 +32,13 @@ Specializing in **Flutter** to build high-performance, cross-platform applicatio
     - 🖥 Electron
     - 📱 React Native
 
+### **Operating Systems**
+- 🖥 Ubuntu
+- 🖥 Fedora
+- 📓 Windows
+
+---
+
 ### 📬 Connect With Me
 - 📧 **Email:** [jashupadhyay.work@gmail.com](mailto:jashupadhyay.work@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/jashupadhyay](https://www.linkedin.com/in/jashupadhyay/)
